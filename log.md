@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 01: September 18, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I solved a Hackerrank Algorithm >> Greedy Question, which is called Sherlock & the beast, I spend 3.5 hours for this. And also I dicovered some weak points of that question. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I spend so many times to start today coding, but when I start it, I do it continuously, actually I don't even need to take the dinner. I really struggle first in that question. but I took a coffee break and think it again.. finally I could come up with the solution using python 3. I realize some weak points on that question also, so then I code the algorithm to match those bugs and I got full points finally ;) 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Sherlock and the beast Question on Hackerrank](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem?h_r=profile)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
