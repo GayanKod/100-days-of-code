@@ -16,3 +16,10 @@
 
 **Link to work:** [My Personal Website (Not upload Github yet)](https://www.twitter.com/GayanKodX)
 
+### Day 03: September 20, 2021
+
+**Today's Progress**: Today I created a Medium type Greedy Question for a Hackerrank Platform based competition. Since this is a competition, I cannot public the code or the question. To create this algorithm, I used python 3.
+
+**Thoughts:** This question based on a story of Sherlock. I hope this will be very interest in competitors. I am also a Sherlock Holmes fan. That's why I make this question based on a Sherlock's story. 
+
+**Link to work:** [This cannot be public untill competition end](https://www.twitter.com/GayanKodX)
