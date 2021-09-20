@@ -18,7 +18,7 @@
 
 ### Day 03: September 20, 2021
 
-**Today's Progress**: Today I created a Medium type Greedy Question for a Hackerrank Platform based competition. Since this is a competition, I cannot public the code or the question. To create this algorithm, I used python 3.
+**Today's Progress**: Today I created a Medium type Greedy Question for a Hackerrank Platform based competition. Since this is a competition, I cannot public the code or the question. To create this algorithm, I used python 3. And this question about a Investigation of a Sherlock Holmes. 
 
 **Thoughts:** This question based on a story of Sherlock. I hope this will be very interest in competitors. I am also a Sherlock Holmes fan. That's why I make this question based on a Sherlock's story. 
 
