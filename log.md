@@ -23,3 +23,11 @@
 **Thoughts:** This question based on a story of Sherlock. I hope this will be very interest in competitors. I am also a Sherlock Holmes fan. That's why I make this question based on a Sherlock's story. 
 
 **Link to work:** [This cannot be public untill competition end](https://www.twitter.com/GayanKodX)
+
+### Day 04: September 21, 2021
+
+**Today's Progress**: Today I worked with my personal website DEV. I will share with you what I learned today. It's basically CSS Tricks to adding beautiful shadows. 
+
+**Thoughts:** Today is a tough day. After finishing lecturers on university, I have to contribute as a Public Relation Director in our university Rotaract Club. After finishing all of these. I looked into a my personal website and do some stylings... So then I learned these CSS tricks today.  
+
+**Link to work:** [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
