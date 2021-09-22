@@ -31,3 +31,12 @@
 **Thoughts:** Today is a tough day. After finishing lecturers on university, I have to contribute as a Public Relation Director in our university Rotaract Club. After finishing all of these. I looked into a my personal website and do some stylings... So then I learned these CSS tricks today.  
 
 **Link to work:** [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+
+### Day 05: September 22, 2021
+
+**Today's Progress**: Today I worked with my personal website DEV. I will share with you what I learned today. It's basically CSS Tricks to adding beautiful shadows. Spend 2 hours.
+
+**Thoughts:** With the university lectures, I do this somehow or other. This is the today quote for me. 
+
+**Link to work:** [How use internal CSS in React](https://twitter.com/GayanKodX/status/1440730081081520136) 
+
