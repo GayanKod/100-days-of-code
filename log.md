@@ -40,3 +40,12 @@
 
 **Link to work:** [How use internal CSS in React](https://twitter.com/GayanKodX/status/1440730081081520136) 
 
+### Day 06: September 23, 2021
+
+**Today's Progress**: Spend 3 Hours, Today I learned SQL VIEWS. Did tutorials of university given...
+
+**Thoughts:** Feel like I need to practice SQL more... just practice more because my timing is not good i think for writing a SQL Query. I have to work on this more and more...
+
+**Link to work:** [Here I share How SQL DATENAME function use](https://twitter.com/GayanKodX/status/1441083362899226630) 
+
+
