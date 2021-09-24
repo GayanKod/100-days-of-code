@@ -48,4 +48,12 @@
 
 **Link to work:** [Here I share How SQL DATENAME function use](https://twitter.com/GayanKodX/status/1441083362899226630) 
 
+### Day 07: September 24, 2021
+
+**Today's Progress**: Spend 2 Hours, Today I worked with my personal website development.
+
+**Thoughts:** Feel like I grown day by day, but keep this things in my memory stickly, I will have to do more and more projects!
+
+**Link to work:** [My Personal Website GitHub](https://github.com/GayanKod/gayankod-personalweb) 
+
 
