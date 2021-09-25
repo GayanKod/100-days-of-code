@@ -56,4 +56,14 @@
 
 **Link to work:** [My Personal Website GitHub](https://github.com/GayanKod/gayankod-personalweb) 
 
+### Day 08: September 25, 2021
+
+**Today's Progress**: Spend 2 Hours, Today I worked with my personal website development. So I learned new CSS Property. mask-composite 
+
+**Thoughts:** Actually, Im tired, So many works to do in University these days, Virtual Education sucks!!! But I never give up !
+
+**Link to work:** [mask-composite CSS Property](https://css-tricks.com/almanac/properties/m/mask-composite/) 
+
+
+
 
