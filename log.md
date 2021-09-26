@@ -64,6 +64,12 @@
 
 **Link to work:** [mask-composite CSS Property](https://css-tricks.com/almanac/properties/m/mask-composite/) 
 
+### Day 09: September 26, 2021
 
+**Today's Progress**: Spend 2 Hours, Worked with my personal web dev. Navigation bar color change when scroll - DONE
+
+**Thoughts:** I feel that day by day my website is grown... 
+
+**Link to work:** [My Personal Website GitHub](https://github.com/GayanKod/gayankod-personalweb) 
 
 
