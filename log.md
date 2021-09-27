@@ -72,7 +72,7 @@
 
 **Link to work:** [My Personal Website GitHub](https://github.com/GayanKod/gayankod-personalweb) 
 
-### Day 10: September 26, 2021
+### Day 10: September 27, 2021
 
 **Today's Progress**: Spend 3.5 Hours, Today I learned Java Classes, Variable types, Objects... And build some algorithms in JAVA.
 
