@@ -81,3 +81,13 @@
 **Link to work:** [3 Variable types of JAVA - my tweet @GayanKodX](https://twitter.com/GayanKodX/status/1442556525755584518) 
 
 
+### Day 11: September 28, 2021
+
+**Today's Progress**: Spend 2 Hours, Today worked with my personal website. 
+Today I learned how to animate text like type and delete with typewriter animation. 
+
+**Thoughts:** Another stressful and busy day, Today I had to do an assignment of University and I have to contribute for upcoming project of Rotaract Club of my university. Since I'm the Co-Director PR  
+
+**Link to work:** [Here you can download the full code of TypeWriterEffect](https://bit.ly/typeWriterAnimation) 
+
+
