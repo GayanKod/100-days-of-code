@@ -91,3 +91,13 @@ Today I learned how to animate text like type and delete with typewriter animati
 **Link to work:** [Here you can download the full code of TypeWriterEffect](https://bit.ly/typeWriterAnimation) 
 
 
+
+### Day 12: September 29, 2021
+
+**Today's Progress**: Spend 2.5 Hours, To release university academic stress, Today I solved Hackerrank greedy algorithms.
+
+**Thoughts:** Somehow or other, when you got the answer... After trying 1000 times... That feeling is priceless. That's inner peace!
+
+**Link to work:** [Hackerrank](https://www.hackerrank.com/GayanKod) 
+
+
