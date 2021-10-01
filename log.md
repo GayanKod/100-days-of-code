@@ -107,4 +107,13 @@ Today I learned how to animate text like type and delete with typewriter animati
 
 **Link to work:** [My Personal Website GitHub](https://github.com/GayanKod/gayankod-personalweb) 
 
+### Day 14: October 1, 2021
+
+**Today's Progress**: Spend 2 Hours. Today I learned CSS Animations!!! Today was a tough day, I had to prepare for tomorrow's statistic quiz also.
+
+**Thoughts:** I just give it a try to make my own css animations that in my mind.
+
+**Link to work:** [I learned CSS animations through W3Schools today, you can check it out from here](https://www.w3schools.com/css/css3_animations.asp) 
+
+
 
