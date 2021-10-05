@@ -107,6 +107,8 @@ Today I learned how to animate text like type and delete with typewriter animati
 
 **Link to work:** [My Personal Website GitHub](https://github.com/GayanKod/gayankod-personalweb) 
 
+
+
 ### Day 14: October 1, 2021
 
 **Today's Progress**: Spend 2 Hours. Today I learned CSS Animations!!! Today was a tough day, I had to prepare for tomorrow's statistic quiz also.
@@ -114,6 +116,56 @@ Today I learned how to animate text like type and delete with typewriter animati
 **Thoughts:** I just give it a try to make my own css animations that in my mind.
 
 **Link to work:** [I learned CSS animations through W3Schools today, you can check it out from here](https://www.w3schools.com/css/css3_animations.asp) 
+
+
+
+### Day 15: October 2, 2021
+
+**Today's Progress**: Spend 2 Hours, Today I created a Easy Pattern Recognition Question for a Hackerrank Platform based competition. 
+
+
+**Thoughts:** Actually this was not a hard one. I did it very funny way though!
+
+**Link to work:** [Cannot public this since this is a competition](https://hackerrank.com) 
+
+
+
+### Day 16: October 3, 2021
+
+**Today's Progress**: Spend 4 Hours, Learned Java history, how its timeline and what are the different editions and what they used for And learned how to get user inputs in JAVA.
+
+**Thoughts:** Actually those things are very interesting!!! Today I happily learned these things.
+
+**Link to work:** [Here I share a simple tip for getting user inputs and print!](https://twitter.com/GayanKodX/status/1444759488884396033/photo/1) 
+
+
+
+### Day 17: October 4, 2021
+
+**Today's Progress**: Day 17 of #100DaysOfCode 
+Spend 5 Hours
+Learned Java and Practice…
+
+Objects,
+Static & Non-Static, 
+Constructors, 
+Wrapper Classes,
+Autoboxing, 
+Packages
+
+**Thoughts:** Today I learned these things from my university lectures and from a special book. This book behind a long story. Actually I don't want to buy this book at that day, but I have to buy... It's a long story! Anyway Today It was very helpful to me learn these things. Book is "Murach's Java Beginning with Netbeans"
+
+**Link to work:** [Download "Murach's Java Beginning with Netbeans"](https://t.co/KaOP0iA8nU?amp=1) 
+
+
+### Day 18: October 5, 2021
+
+**Today's Progress**: Spend 2 Hours, Start contributing an open-source project under #Hacktoberfest #hacktoberfest2021. So I'm assigned to clone Instagram UI on that project. 
+Today I worked on that!!! with Reactjs
+
+**Thoughts:** I am very excited to submit all 4 PRs as soon as possible to win Hacktoberfest 2021 T-shirt. But I'm doing this for learning. Not for sake of a T shirt!!!!
+
+**Link to work:** [Sign up Hacktoberfest](https://hacktoberfest.digitalocean.com) 
 
 
 
